@@ -1,3 +1,4 @@
+package Practice2024;
 interface Animal {
     void eat();
 }
