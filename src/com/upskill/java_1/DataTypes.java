@@ -15,8 +15,10 @@ public class DataTypes {
         String state = "Raj";
         String district = "mad";
         
-        System.out.println("City: " + city);
-        System.out.println("State: " + state);
-        System.out.println ("distrist: " + district);
+        System.out.println(city);
+        System.out.println(state);
+        boolean isRain = true;
+        
+        System.out.println (isRain);
     }
 }
