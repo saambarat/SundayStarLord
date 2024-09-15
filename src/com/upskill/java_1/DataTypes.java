@@ -20,5 +20,20 @@ public class DataTypes {
         boolean isRain = true;
         
         System.out.println (isRain);
+       
+        
+        //Example all primitive DataTypes
+        int d = 1234567890;
+        short e = 12345;
+        long f = 643168811;
+        byte g = 123;
+        float h = 1.23F;
+        double i = 12.35;
+        char j = 'X';
+        boolean k = true;
+        
+        //this line to validate git PR
+        System.out.println("Git Pull Request");
+        
     }
 }
